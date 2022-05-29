@@ -1,0 +1,23 @@
+.ruleta{
+    margin-top: 20px;
+}
+
+.body{
+    background-image: url(/imagen/mesi.jfif);
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.tarjeta{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+img{
+    margin-top: 50px;
+}
